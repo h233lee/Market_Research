@@ -1,1 +1,1 @@
-# Market_Research
+# This project digs into a survey (population) and tries to figure out which market makes the most sense to advertise our new e-learning product
